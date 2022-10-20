@@ -1,4 +1,4 @@
-find technical/
+find docsearch/technical/
 find technica/ > find-results.txt
 less find-results.txt
 wc find-results.txt
